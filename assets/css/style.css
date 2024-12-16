@@ -184,7 +184,7 @@ main {
 }
 
 /* Add this CSS to style the submit button */
-.submit-button {
+.next-button {
   background-color: #9fc5f8; /* Button background color */
   color: black; /* Button text color */
   border: 2px solid black; /* Solid black border */
@@ -193,7 +193,7 @@ main {
   height: 60px; /* Adjust the height as needed */  
 }
 
-.submit-button:hover {
+.next-button:hover {
   background-color: white; /* Change background color on hover */
   color: black; /* Change text color on hover */
   border: 2px solid black; /* Ensure black border remains */
